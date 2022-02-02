@@ -6,14 +6,14 @@ function addToCart(quantity,productName="Elma"){
 addToCart(10)
 //addToCart("Karpuz")
 
-let sayHello=()=>{
-    console.log("Hello World!")
+let sayTrue=()=>{
+    console.log(" True")
 }
-sayHello()
-let sayHello2=function(){
-    console.log("Hello World2")
+sayTrue()
+let sayTrue2=function(){
+    console.log("True2")
 }
-sayHello2()
+sayTrue2()
 function addToCart2(productName,quantity,unitPrice)
 {
 
